@@ -1,0 +1,17 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day-2.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "starta": "npx tsc && node ./dist/day-2a.js",
+    "startb": "npx tsc && node ./dist/day-2b.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  }
+}
